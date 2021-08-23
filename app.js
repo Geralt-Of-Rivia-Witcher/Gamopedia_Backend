@@ -12,7 +12,7 @@ app.use(cors());
 dotenv.config();
 
 var API_KEY = process.env.API_KEY;
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 
 let gameName = "";
 
