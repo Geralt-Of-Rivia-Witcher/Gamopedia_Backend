@@ -26,7 +26,6 @@ app.post("/api/gameName", async (req, res) =>
     console.log("Getting Game Data");
     gameName = _.kebabCase([req.body.gameName]);
     let url = "https://api.rawg.io/api/games/" + gameName + "?key=" + API_KEY;
-    console.log(API_KEY);
     var bool = false;
 
     await getGameData(gameName, url)
