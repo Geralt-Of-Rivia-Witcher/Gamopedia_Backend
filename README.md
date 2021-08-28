@@ -40,7 +40,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p  align="center">
-  <img align="center" src="images/screenshot.png">
+  <img align="center" src="https://github.com/Geralt-Of-Rivia-Witcher/Gamopedia_Backend/blob/master/images/screenshot.PNG">
 </p>
 <br />
 <br />
