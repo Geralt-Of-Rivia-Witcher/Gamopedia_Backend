@@ -2,7 +2,7 @@
   <h1 align="center">Gamopedia Backend</h1>
 
   <p align="center">
-    <h3>The Backend code of Gamopedia web app</h3>
+    <h3 align="center">The Backend code of Gamopedia web app</h3>
     <br />
     <br />
     <br />
