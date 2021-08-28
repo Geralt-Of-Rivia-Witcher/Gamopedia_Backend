@@ -1,10 +1,9 @@
 <p align="center">
-  <h3 align="center">Gamopedia Backend</h3>
+  <h1 align="center">Gamopedia Backend</h1>
 
   <p align="center">
-    The Backend code of Gamopedia web app
+    <h3>The Backend code of Gamopedia web app</h3>
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
