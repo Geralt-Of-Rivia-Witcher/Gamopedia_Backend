@@ -54,7 +54,6 @@ The information is fetched from <a href="https://rawg.io/apidocs">RAWG Video Gam
 [<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white">](https://nodejs.org/en/)
 [<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">](https://expressjs.com/)
 <br />
-Other than Node.js and Express, several node modules are also used.
 
 
 <!-- GETTING STARTED -->
